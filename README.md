@@ -10,4 +10,4 @@
 そこで一つでも他にはない機能がついていたら使用される可能性があるのではと思い、制作しました。  
   
 ### DEMO  
-.RPReplay_Final1592166520 2.MOVRPReplay_Final1592166520 2.MOV
+https://user-images.githubusercontent.com/64370140/84603865-d2b72200-aecc-11ea-80ce-55781df79378.jpg
