@@ -10,4 +10,6 @@
 そこで一つでも他にはない機能がついていたら使用される可能性があるのではと思い、制作しました。  
   
 ### DEMO  
-RPReplay_Final1592166520 2.MOV
+RPReplay_Final1592166520 2.MOV. 
+RPReplay_Final1592166520 3.mov
+
