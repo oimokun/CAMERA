@@ -10,4 +10,5 @@
 そこで一つでも他にはない機能がついていたら使用される可能性があるのではと思い、制作しました。  
   
 ### DEMO  
-https://user-images.githubusercontent.com/64370140/84603865-d2b72200-aecc-11ea-80ce-55781df79378.jpg
+https://user-images.githubusercontent.com/64370140/84603865-d2b72200-aecc-11ea-80ce-55781df79378.jpg.  
+https://user-images.githubusercontent.com/64370140/84603906-16aa2700-aecd-11ea-9cf3-617368b40d53.jpg
