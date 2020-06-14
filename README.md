@@ -10,5 +10,7 @@
 そこで一つでも他にはない機能がついていたら使用される可能性があるのではと思い、制作しました。  
   
 ### DEMO  
-
-https://user-images.githubusercontent.com/64370140/84604527-a81b9800-aed1-11ea-9875-814c0250a113.gif
+アプリを起動後『カメラを起動します』のボタンを押すとカメラを起動するかライブラリーの写真をみるか選択することができます。  
+https://user-images.githubusercontent.com/64370140/84604527-a81b9800-aed1-11ea-9875-814c0250a113.gif.  
+撮影、またはライブラリーから写真を選択後『エフェクト』ボタンを押すとエフェクトを変更できます。
+https://user-images.githubusercontent.com/64370140/84604693-cb931280-aed2-11ea-9abc-28a10918f389.gi
