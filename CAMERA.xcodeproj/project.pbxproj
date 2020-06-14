@@ -13,6 +13,8 @@
 		382E3FF424963EC9007407E4 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 382E3FF224963EC9007407E4 /* Main.storyboard */; };
 		382E3FF624963ECE007407E4 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 382E3FF524963ECE007407E4 /* Assets.xcassets */; };
 		382E3FF924963ECE007407E4 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 382E3FF724963ECE007407E4 /* LaunchScreen.storyboard */; };
+		382E400124964918007407E4 /* EffectViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 382E400024964918007407E4 /* EffectViewController.swift */; };
+		382E40032496994E007407E4 /* UIImageExtension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 382E40022496994E007407E4 /* UIImageExtension.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +26,8 @@
 		382E3FF524963ECE007407E4 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		382E3FF824963ECE007407E4 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		382E3FFA24963ECE007407E4 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		382E400024964918007407E4 /* EffectViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EffectViewController.swift; sourceTree = "<group>"; };
+		382E40022496994E007407E4 /* UIImageExtension.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UIImageExtension.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +64,8 @@
 				382E3FEE24963EC9007407E4 /* SceneDelegate.swift */,
 				382E3FF024963EC9007407E4 /* ViewController.swift */,
 				382E3FF224963EC9007407E4 /* Main.storyboard */,
+				382E400024964918007407E4 /* EffectViewController.swift */,
+				382E40022496994E007407E4 /* UIImageExtension.swift */,
 				382E3FF524963ECE007407E4 /* Assets.xcassets */,
 				382E3FF724963ECE007407E4 /* LaunchScreen.storyboard */,
 				382E3FFA24963ECE007407E4 /* Info.plist */,
@@ -139,7 +145,9 @@
 			buildActionMask = 2147483647;
 			files = (
 				382E3FF124963EC9007407E4 /* ViewController.swift in Sources */,
+				382E400124964918007407E4 /* EffectViewController.swift in Sources */,
 				382E3FED24963EC9007407E4 /* AppDelegate.swift in Sources */,
+				382E40032496994E007407E4 /* UIImageExtension.swift in Sources */,
 				382E3FEF24963EC9007407E4 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -285,6 +293,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = CWCL7RY6C9;
 				INFOPLIST_FILE = CAMERA/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
@@ -302,6 +311,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = CWCL7RY6C9;
 				INFOPLIST_FILE = CAMERA/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
